@@ -134,7 +134,6 @@ public class BattleManager : MonoBehaviour
                 }
                 break;
             case State.BattleIsOver:
-                
 
                 break;
         }
